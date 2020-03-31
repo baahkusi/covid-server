@@ -1,0 +1,1 @@
+web: gunicorn covid19.app:api --timeout 120 --workers 4 --log-file -

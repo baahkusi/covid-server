@@ -1,0 +1,12 @@
+pytest
+falcon
+gunicorn
+peewee
+psycopg2-binary
+sendgrid
+bcrypt
+cloudinary
+python-dotenv
+python-twitter
+facebook-sdk
+python-datauri

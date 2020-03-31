@@ -1,0 +1,1 @@
+python -m covid19.db.migrate
